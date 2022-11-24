@@ -119,6 +119,7 @@ body {
   border-radius: 7rem;
   border: none;
   color: var(--violet);
+  background-color: white;
   font-family: var(--poppins);
   box-shadow: 1px 1px 5px black;
   margin-bottom: 8rem;
