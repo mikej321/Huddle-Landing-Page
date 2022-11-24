@@ -147,7 +147,7 @@ body {
 
   /* Figure out how to rotate the background image tomorrow!!! Then I'm done. */
   body {
-    background-image: url(images/bg-desktop.svg);
+    background-image: url(./images/bg-desktop.svg);
     background-size: contain;
     background-repeat: no-repeat;
     
